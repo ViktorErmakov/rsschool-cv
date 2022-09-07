@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://github.com/ViktorErmakov/rsschool-cv/blob/gh-pages/cv.md
+https://ViktorErmakov.github.io/rsschool-cv/cv
