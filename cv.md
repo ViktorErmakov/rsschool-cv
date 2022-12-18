@@ -18,7 +18,7 @@ Development tools: 1C configurator, EDT, VSC.
 ### Примеры кода
 Примеры кода можно посмотреть 
 * https://github.com/ViktorErmakov/
-* https://www.codewars.com/users/ViktorErmakov/badges/large
+* https://www.codewars.com/users/ViktorErmakov
 * http://viktorermakov.ru
 
 ###  Образование 
