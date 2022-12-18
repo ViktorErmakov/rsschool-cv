@@ -13,7 +13,6 @@ html {
 
 * {
     box-sizing: border-box;
-    /* border: 1px solid red; */
 }
 
 body {
@@ -34,10 +33,6 @@ body {
 header {
     background-color: var(--yellow-color);
 }
-
-/* div {
-    margin: auto auto;
-} */
 
 .main-container {
     display: flex;
@@ -94,13 +89,10 @@ header {
 }
 
 .section-title {
-    /* margin-bottom: 20px; */
     font-size: 20px;
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
-    /* margin: 0; */
-    /* color: var(--yellow-color); */
 }
 
 .section-profile {
@@ -217,10 +209,8 @@ header {
 }
 
 .main-title {
-    /* position: relative; */
     padding: 0;
     margin-bottom: 20px;
-    /* color: #4d2323; */
     font-size: 32px;
     font-weight: 300;
     letter-spacing: 10px;
