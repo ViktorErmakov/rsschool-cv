@@ -57,14 +57,14 @@ header {
     }
 }
 
-.nav-list {
+.nav__list {
     display: flex;
     justify-content: flex-end;
     align-items: center;
     list-style: none;
 }
 
-.nav-link {
+.nav__link {
 
     padding: 0 20px;
     text-decoration: none;
@@ -75,7 +75,7 @@ header {
     transition: color 0.5s;
 }
 
-.nav-link:hover {
+.nav__link:hover {
     color: #241b00;
     text-decoration: underline;
 }
